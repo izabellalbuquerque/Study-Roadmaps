@@ -11,7 +11,7 @@ O roadmap.sh é uma iniciativa comunitária lançada em 2019 por Kamran Ahmed, c
 3. Siga o fluxo do roteiro, começando pelos tópicos básicos e avançando para os mais complexos.
 4. Utilize os recursos recomendados no roadmap.sh, como tutoriais, documentações e cursos.
 
-
+##
 ⭐ Dica: Marque este repositório com uma estrela para acompanhar futuras atualizações!
 
 🔍 Use Ctrl + F para buscar por uma área específica.
